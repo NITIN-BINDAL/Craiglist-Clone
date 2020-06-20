@@ -1,6 +1,6 @@
 # Craiglist-Clone
 
-This is Craiglist clone with a much much sexier GUI .To see the website working just fork it and change the location in 'BASE_CRAIGLIST_URL' to your location or keep it as it is to just use it.Now search anything to buy or you want some services from other people or anything else  and Click submit .Your results are ready!!.
+This is Craiglist clone with a much much sexier GUI .To see the website working just fork it and change the location in 'BASE_CRAIGLIST_URL' (in myapp/views.py) to your location or keep it as it is to just use it.Now search anything to buy or you want some services from other people or anything else  and Click submit .Your results are ready!!.
 
 This website is made purely on Django.
 Languages used ----> Python,CSS3,Html5
