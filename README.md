@@ -7,6 +7,8 @@ Languages used ----> Python,CSS3,Html5
 
 This time i have used Google Materialize in this rather than Bootstrap and it seems materialize is also pretty good.
 
+Moreover there is database support aslo to see all the past searches user has searched for just go to /admin to see all the past searches.
+
 Further we also have used Beautiful-Soup4 for scraping purposes.
 
 I am keeping this website open-source so what are you waiting for? Fork and contribute in this and if your contributions are good i will be adding your name in credits list.
